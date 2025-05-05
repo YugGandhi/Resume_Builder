@@ -1,5 +1,5 @@
-# SGP-1
-Resume Builder
+# Resume Builder
+
 
 Overview
 
